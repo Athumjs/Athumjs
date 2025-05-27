@@ -10,4 +10,6 @@
 </div>
 <br>
 
+![Athum Github Stats](https://github-readme-stats.vercel.app/api?username=AthumJs&show_icons=true&theme=onedark)
+
 Um Garoto Programador.
