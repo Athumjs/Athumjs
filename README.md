@@ -1,4 +1,4 @@
-# Olá! Eu sou o Athumjj 👋
+# Olá! Eu sou o Athumjs 👋
 
 ### Programas que eu uso:
 
